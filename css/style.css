@@ -113,6 +113,7 @@ nav ul li a {
     font-size: 14px;
     border-radius: 20px;
     font-weight: bold;
+     text-decoration: none;
 }
 
 @media (max-width:850px) {
